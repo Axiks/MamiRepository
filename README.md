@@ -1,4 +1,4 @@
-<img src="icon.png" alt="drawing" width="200" style="display:block; margin: 0 auto;"/>
+<img src="https://github.com/Axiks/MamiRepository/blob/main/Icon.png" alt="drawing" width="200" style="display:block; margin: 0 auto;"/>
 <center>
     <h1>Mami</h1>
     <i>anime offline database library</i>
