@@ -4,6 +4,7 @@
     <i>anime offline database library</i>
 </center>
 <p> </p>
+
 This is a unofficial C# library for Manami [anime offline database](https://github.com/manami-project/anime-offline-database/blob/master/anime-offline-database.json). It allows you to download a database from a remote repository and interact with it locally without the need to connect to the Internet.
 
 ## Apabilities
