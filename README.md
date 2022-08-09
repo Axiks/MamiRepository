@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Axiks/MamiRepository/blob/main/Icon.png">
+  <img width="200" height="200" src="https://github.com/Axiks/MamiRepository/blob/main/Icon.png">
 </p>
 <h1 align="center">Mami</h1>
 
